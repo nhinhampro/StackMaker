@@ -9,9 +9,6 @@ public class Brick : MonoBehaviour
     [SerializeField] public Colors color;
     [SerializeField] public GameObject brickObject;
 
-    //public Brick(GameObject brickObject)
-    //{
-    //    this.brickObject = brickObject;
-    //}
+    //wow amazing
 }
 
